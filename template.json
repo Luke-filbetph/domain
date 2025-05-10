@@ -1,0 +1,16 @@
+{
+    "links": [
+        {
+            "name": "线路1",
+            "url": "http://www.google.com"
+        },
+        {
+            "name": "线路2",
+            "url": "http://www.baidu.com"
+        },
+        {
+            "name": "线路3",
+            "url": "http://www.SoSo.com"
+        }
+    ]
+}
